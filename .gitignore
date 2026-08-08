@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*.mp4
+data/*.mov
+data/*.avi
+data/weights/
+data/output/
+*.part.mp4
+build/
+dist/
+.DS_Store
