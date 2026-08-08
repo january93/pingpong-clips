@@ -25,6 +25,15 @@
 - 限制：**禁止商用**。本项目为个人 / 开源用途，使用前请确认你符合许可条款。
 - 本项目 README 已声明禁止商用。
 
+### BlurBall TrackNetV2 权重（默认球定位模型）— 非商用
+- 来源：https://github.com/cogsys-tuebingen/BlurBall（图宾根大学，CVPRW / CVsports）
+- 说明：基于 BlurBall 发布的乒乓球球检测权重（含运动模糊感知训练）。3 帧 RGB
+  拼接输入、ImageNet 归一化；本项目在 `src/tracknet.py` 中适配其 U-Net 架构
+  （Conv→ReLU→BN，`bn_first=False`）并自动识别 checkpoint 格式。
+- 限制：与 OpenTTGames 同路线，**禁止商用**。分发前请按 BlurBall 仓库许可条款确认。
+- 旧版 TTcut TrackNet 权重备份为 `data/weights/tracknet_v1_ttcut.pt`（改
+  `config.toml` 的 `model_path` 即可回退）。
+
 ## 第三方运行库
 
 Python、PyTorch、NumPy、OpenCV、FFmpeg、imageio-ffmpeg 等保留各自许可证，详见各项目声明。
