@@ -114,7 +114,7 @@ A：存本地应用数据目录（macOS：`~/Library/Application Support/xiaoju/
 
 小球大师**免费使用**。如果它帮你剪出了喜欢的比赛集锦，欢迎扫码打赏一杯咖啡，支持持续开发：
 
-![微信收款码](data/wechat_pay_qr.png)
+<img src="data/wechat_pay_qr.png" alt="微信收款码" width="200">
 
 > 每次成功导出高光合集后，程序会**自动弹出收款码卡片**（右上角，30 天最多提示一次），扫一扫即可打赏。设置页里也能随时打开打赏卡。
 
