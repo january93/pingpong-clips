@@ -21,6 +21,10 @@ zip 里**已经包含 AI 模型**，解压即用，不用再下载任何东西�
 
 ---
 
+## 解压软件推荐
+- **Windows**：WinRAR
+- **macOS**：全能解压
+
 ## 快速开始（macOS）
 
 1. 下载 `pingpong-clips-macos.zip` 并解压
