@@ -14,8 +14,8 @@
 
 到 [Releases 页面](https://github.com/january93/pingpong-clips/releases) 下载：
 
-- **macOS**：`pingpong-clips-macos.zip`（最新版 v0.1.9 已发布，Apple Silicon / arm64）
-- **Windows**：`pingpong-clips-windows.zip`（最新版 v0.1.9 已发布）
+- **macOS**：`pingpong-clips-macos.zip`（最新版 v0.2.0 已发布，Apple Silicon / arm64）
+- **Windows**：`pingpong-clips-windows.zip`（最新版 v0.2.0 已发布）
 
 zip 里**已经包含 AI 模型**，解压即用，不用再下载任何东西。
 
