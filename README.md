@@ -15,7 +15,7 @@
 到 [Releases 页面](https://github.com/january93/pingpong-clips/releases) 下载：
 
 - **macOS**：`pingpong-clips-macos.zip`（最新版 v0.1.9 已发布，Apple Silicon / arm64）
-- **Windows**：`pingpong-clips-windows.zip`（正在构建中，发布后同样在本页提供）
+- **Windows**：`pingpong-clips-windows.zip`（最新版 v0.1.9 已发布）
 
 zip 里**已经包含 AI 模型**，解压即用，不用再下载任何东西。
 
@@ -37,8 +37,6 @@ zip 里**已经包含 AI 模型**，解压即用，不用再下载任何东西�
 1. 下载 `pingpong-clips-windows.zip` 并解压
 2. 双击 **`run.bat`**，进入**图形界面**
 3. 把视频拖进窗口 → 按顺序点球桌四角 → 选片段 → 导出
-
-> Windows 包正在构建中。当前想先用起来，可以下载旧版 v0.1.6 的 Windows 包（命令行版，功能可用但界面较简陋），或者先用 macOS 版。
 
 ---
 
