@@ -17,16 +17,13 @@
 
 到 [Releases 页面](https://github.com/january93/pingpong-clips/releases) 下载：
 
-- **macOS**：`pingpong-clips-macos.zip`（最新版 v0.2.0 已发布，Apple Silicon / arm64）
-- **Windows**：`pingpong-clips-windows.zip`（最新版 v0.2.0 已发布）
+- **macOS**：`pingpong-clips-macos.zip`（最新版 v0.2.1 已发布，Apple Silicon / arm64）
+- **Windows**：`pingpong-clips-windows.zip`（最新版 v0.2.1 已发布，默认 CPU 版）
+- **Windows GPU 版（可选）**：`pingpong-clips-windows-gpu.zip`（有 NVIDIA 显卡时推理更快；体积约 2-3GB，需装好 NVIDIA 驱动。没有 N 卡直接用上面的 CPU 版即可）
 
 zip 里**已经包含 AI 模型**，解压即用，不用再下载任何东西。
 
 ---
-
-## 解压软件推荐
-- **Windows**：WinRAR
-- **macOS**：全能解压
 
 ## 快速开始（macOS）
 
@@ -135,3 +132,5 @@ A：存本地应用数据目录（macOS：`~/Library/Application Support/xiaoju/
 ## 鸣谢
 
 算法思路与界面设计参考了 [TTcut](https://github.com/WeiyePlayer/TTcut)（MIT），相关署名见 [ATTRIBUTIONS.md](ATTRIBUTIONS.md)。
+
+---
