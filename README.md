@@ -10,16 +10,13 @@
 
 ---
 
-## 项目背景与自我介绍
-本人是 985 高校的一名体育专业硕士，乒乓球半专业选手，开球网 1950 积分，具备较好的技术基础与丰富的教学经验。该项目的初衷是设计一款乒乓球技能合集工具。目前只开发了自动视频剪辑功能，后期可能增加更多功能，比如基于自己技术理解的乒乓球动作识别与分析、比赛技战术分析等，敬请期待！
-
 ## 下载
 
 到 [Releases 页面](https://github.com/january93/pingpong-clips/releases) 下载：
 
 - **macOS**：`pingpong-clips-macos.zip`（最新版 v0.2.1 已发布，Apple Silicon / arm64）
 - **Windows**：`pingpong-clips-windows.zip`（最新版 v0.2.1 已发布，默认 CPU 版）
-- **Windows GPU 版（可选）**：`pingpong-clips-windows-gpu.zip`（有 NVIDIA 显卡时推理更快；体积约 2-3GB，需装好 NVIDIA 驱动。没有 N 卡直接用上面的 CPU 版即可）
+- **Windows GPU 版（可选）**：`pingpong-clips-windows-gpu.zip.part1` + `pingpong-clips-windows-gpu.zip.part2`（有 NVIDIA 显卡时推理更快；体积约 2-3GB，需装好 NVIDIA 驱动。因 GitHub 单文件上限 2GB，此包拆成两部分，**两个都要下载**，合并后解压——合并命令见 Releases 页面说明。没有 N 卡直接用上面的 CPU 版即可）
 
 zip 里**已经包含 AI 模型**，解压即用，不用再下载任何东西。
 
